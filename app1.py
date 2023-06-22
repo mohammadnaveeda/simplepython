@@ -1,5 +1,6 @@
 #App that converts Feet into Metres
 print("Ft to Mt Convertor App")
+print("just scroll down")
  
 #Python function to make it done.
 
